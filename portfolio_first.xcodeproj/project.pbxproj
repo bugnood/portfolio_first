@@ -16,6 +16,7 @@
 		B6843FDC2B2423950077FCA1 /* portfolio_firstTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6843FDB2B2423950077FCA1 /* portfolio_firstTests.swift */; };
 		B6843FE62B2423950077FCA1 /* portfolio_firstUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6843FE52B2423950077FCA1 /* portfolio_firstUITests.swift */; };
 		B6843FE82B2423950077FCA1 /* portfolio_firstUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6843FE72B2423950077FCA1 /* portfolio_firstUITestsLaunchTests.swift */; };
+		B690FB472B242E54000E01BB /* TopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B690FB462B242E54000E01BB /* TopView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		B6843FE12B2423950077FCA1 /* portfolio_firstUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = portfolio_firstUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6843FE52B2423950077FCA1 /* portfolio_firstUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = portfolio_firstUITests.swift; sourceTree = "<group>"; };
 		B6843FE72B2423950077FCA1 /* portfolio_firstUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = portfolio_firstUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B690FB462B242E54000E01BB /* TopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				B6843FCE2B2423950077FCA1 /* Persistence.swift */,
 				B6843FD02B2423950077FCA1 /* portfolio_first.xcdatamodeld */,
 				B6843FCB2B2423950077FCA1 /* Preview Content */,
+				B690FB462B242E54000E01BB /* TopView.swift */,
 			);
 			path = portfolio_first;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6843FCF2B2423950077FCA1 /* Persistence.swift in Sources */,
+				B690FB472B242E54000E01BB /* TopView.swift in Sources */,
 				B6843FD22B2423950077FCA1 /* portfolio_first.xcdatamodeld in Sources */,
 				B6843FC82B2423940077FCA1 /* ContentView.swift in Sources */,
 				B6843FC62B2423940077FCA1 /* portfolio_firstApp.swift in Sources */,
