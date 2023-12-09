@@ -17,6 +17,7 @@
 		B6843FE62B2423950077FCA1 /* portfolio_firstUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6843FE52B2423950077FCA1 /* portfolio_firstUITests.swift */; };
 		B6843FE82B2423950077FCA1 /* portfolio_firstUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6843FE72B2423950077FCA1 /* portfolio_firstUITestsLaunchTests.swift */; };
 		B690FB472B242E54000E01BB /* TopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B690FB462B242E54000E01BB /* TopView.swift */; };
+		B6C0C1CE2B246EB700445BD6 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6C0C1CD2B246EB700445BD6 /* LoginView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		B6843FE52B2423950077FCA1 /* portfolio_firstUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = portfolio_firstUITests.swift; sourceTree = "<group>"; };
 		B6843FE72B2423950077FCA1 /* portfolio_firstUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = portfolio_firstUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B690FB462B242E54000E01BB /* TopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopView.swift; sourceTree = "<group>"; };
+		B6C0C1CD2B246EB700445BD6 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				B6843FD02B2423950077FCA1 /* portfolio_first.xcdatamodeld */,
 				B6843FCB2B2423950077FCA1 /* Preview Content */,
 				B690FB462B242E54000E01BB /* TopView.swift */,
+				B6C0C1CD2B246EB700445BD6 /* LoginView.swift */,
 			);
 			path = portfolio_first;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6C0C1CE2B246EB700445BD6 /* LoginView.swift in Sources */,
 				B6843FCF2B2423950077FCA1 /* Persistence.swift in Sources */,
 				B690FB472B242E54000E01BB /* TopView.swift in Sources */,
 				B6843FD22B2423950077FCA1 /* portfolio_first.xcdatamodeld in Sources */,
